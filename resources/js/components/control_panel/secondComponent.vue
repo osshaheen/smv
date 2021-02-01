@@ -9,7 +9,7 @@
         name: "second-component",
         data(){
             return{
-                name : 566
+                name : 5665
             }
         }
     }

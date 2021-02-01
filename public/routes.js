@@ -19,7 +19,7 @@ __webpack_require__.r(__webpack_exports__);
   name: "second-component",
   data: function data() {
     return {
-      name: 566
+      name: 5665
     };
   }
 });
